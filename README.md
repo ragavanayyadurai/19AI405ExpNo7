@@ -1,7 +1,7 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
-
+<h3>Name: Ragavendran A</h3>
+<h3>Register Number:212222230114</h3>
+# DATE:
 # Aim: 
 
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
